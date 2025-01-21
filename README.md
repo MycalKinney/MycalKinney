@@ -3,13 +3,13 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/MycalKinney/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/MycalKinney/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MycalKinney/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+  - [Configuring Active Directory within Azure VMs](https://github.com/MycalKinney/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MycalKinney/azure-network-protocols)
+  - [How To Use Remote Desktop](https://github.com/MycalKinney/how-to-use-remote-desktop)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Mycal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
