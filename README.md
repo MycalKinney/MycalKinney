@@ -13,7 +13,6 @@
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Mycal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mycal | Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Bluesky]
 
 [linkedin]: https://linkedin.com/in/mycal-kinney-53b9278b/
-[Bluesky]: https://bsky.app/profile/esotericmindst8.bsky.social
+
